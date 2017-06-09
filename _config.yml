@@ -39,8 +39,3 @@ descriptions:
 languages:
   - "en"
   - "zh"
-exclude_from_localizations:
-  - "js"
-  - "images"
-  - "css"
-  - "fonts"
